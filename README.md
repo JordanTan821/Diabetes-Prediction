@@ -1,5 +1,6 @@
 # Diabetes Prediction Using Machine Learning
-![images](https://github.com/user-attachments/assets/9bec6a22-fb2e-4028-9044-7a4dd8f64d02)
+![images (1)](https://github.com/user-attachments/assets/f1d645fc-f5e3-4c77-b4b2-6809f0639213)
+
 
 ## Overview
 Diabetes affects millions of people worldwide, placing significant pressure on healthcare systems and leading to substantial social and economic costs. One of the key challenges is the lack of early detection and effective management, which often results in severe complications and reduced quality of life for individuals.
