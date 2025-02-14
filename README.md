@@ -12,10 +12,10 @@ The dataset used for this project is Early Stage Diabetes Risk Prediction Datase
 https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset 
 
 ## Algorithms Used
-• Support Vector Machine (SVM)
-• Decision Tree 
-• Naïve Bayes
-• K-Nearest Neighbours (KNN)
+• Support Vector Machine (SVM)  
+• Decision Tree    
+• Naïve Bayes   
+• K-Nearest Neighbours (KNN)   
 
 ## Result
 The best-performing model was **Decision Tree**, achieving an accuracy of **97.66%**.
